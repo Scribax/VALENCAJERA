@@ -1,4 +1,4 @@
-const WHATSAPP_URL = 'https://wa.me/XXXXXXXXXXX';
+const WHATSAPP_URL = 'https://wa.me/5493815936070';
 
 const serviceNotes = [
   'Respondo por WhatsApp',
